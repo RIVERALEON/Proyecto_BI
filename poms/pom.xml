@@ -10,6 +10,8 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/carga_excel_0.1</module>
+    <module>jobs/process/carga_mysql_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PROYECTO_BI</talend.project.name>
